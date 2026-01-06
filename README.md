@@ -1,5 +1,14 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 Hi 👋, I'm Shang Wen
+🎓 Computer Science Student | 💻 Aspiring Software Engineer | 🌐 EdTech & Web3 Enthusiast
+
+📫 Reach me at: **shangwenlim07@gmail.com** — Open to collaboration and project opportunities
+- 🚀 I am a Computer Science student with a strong interest in building practical and impactful software solutions.
+- 🤝 I am actively seeking collaboration on EdTech platforms, Web3 applications, and software development projects.
+- 🧠 I am open to contributing to open-source projects, internships, and collaborative teams where I can deliver value and grow professionally.
+- 🌱 I am currently developing my skills in software engineering, Web3 technologies, and software testing & quality assurance.
+- 💬 Ask me about computer science fundamentals, web application development, and software testing practices.
+- ⚡ Fun fact: I am highly motivated by projects that combine technology, education, and real-world problem solving.
+
 
 
 ## 🌐 Socials:
@@ -18,3 +27,9 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 🎯 Current Goals
+- Secure a software engineering or QA internship
+- Contribute to EdTech or open-source projects
+- Build real-world Web3 applications
+
