@@ -26,7 +26,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ## 🎯 Current Goals
 - Secure a software engineering or QA internship
 - Contribute to EdTech or open-source projects
