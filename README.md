@@ -27,6 +27,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ## 🎯 Current Goals
-- Secure a software engineering or QA internship
+- Seeking partner to build a platform with automation software development 
 - Contribute to EdTech or open-source projects
 - Build real-world Web3 applications
